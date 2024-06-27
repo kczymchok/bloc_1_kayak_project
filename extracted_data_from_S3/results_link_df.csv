@@ -1,0 +1,695 @@
+Unnamed: 0,hotel_name,hotel_address,latitude,longitude
+0,Appart'City Confort Amiens Gare,"80, boulevard d'Alsace-Lorraine, 80000 Amiens, France",49.8943163,2.3097612
+1,The Nest,"37 Boulevard Maignan Larivière, 80000 Amiens, France",49.889307,2.294634
+2,Nemea Appart Hotel Coliseum Amiens Centre,"25 Rue Frédéric Petit, 80000 Amiens, France",49.8921749,2.2889352
+3,Odalys City Amiens Blamont,"25 rue du Blamont, 80000 Amiens, France",49.88714842,2.3116109
+4,Le Saint Louis,"24 Rue Des Otages, 80000 Amiens, France",49.88977885,2.30249941
+5,Comfort Hotel Amiens Nord,"Zac St Ladre - Rue le Greco, 80085 Amiens, France",49.92513403,2.30457276
+6,The Originals Boutique Hôtel Amiens Sud,"73 avenue Valery Giscard d'Estaing, 80000 Amiens, France",49.87961282,2.26665102
+7,"Holiday Inn Express Amiens, an IHG Hotel","10 Boulevard Alsace Lorraine, 80000 Amiens, France",49.8916762,2.30775386
+8,Moxy Amiens,"29-33 rue Paul Tellier, 80000 Amiens, France",49.891249,2.30953
+9,Logis hôtel - La Chambre D'Amiens,"1 avenue de l'hippodrome AMIENS, 80000 Amiens, France",49.89448371,2.27680253
+10,Hôtel Spa Marotte,"3 rue Marotte, 80000 Amiens, France",49.89105067,2.30115093
+11,ibis Styles Amiens Centre,"10 Rue Lamartine, 80000 Amiens, France",49.891422,2.304996
+12,Mercure Amiens Cathédrale,"21/23 Rue Flatters, 80000 Amiens, France",49.89571084,2.29956239
+13,Campanile Amiens - Glisy,"N° 38 Avenue De La Ville Idéale , 80440 Glisy, France",49.8675131,2.37250775
+14,"The Originals City, Tabl'Hôtel, Amiens","16 Avenue de l'Arc, 80330 Longueau, France",49.87095,2.371064
+15,Kyriad Prestige Amiens Poulainville - Hotel and Spa,"722 Route Nationale 25, 80260 Poulainville, France",49.9524,2.31145
+16,Novotel Amiens Pôle Jules Verne,"Pôle Jules Verne, 7 rue des Indes Noires, 80440 Boves, France",49.86547735,2.3711586
+17,Résidence Pierre & Vacances Ty Mat,"33, rue George V, Saint-Servan, 35400 Saint Malo, France",48.63837328,-2.01351285
+18,Hotel Kyriad Saint Malo Centre Plage,"49, Chaussée du Sillon, Sillon, 35400 Saint Malo, France",48.65538573,-2.00562447
+19,La Maison des Armateurs,"6, Grand Rue, Intra Muros, 35400 Saint Malo, France",48.6492052,-2.02463329
+20,Hotel Elizabeth - Intra Muros,"2 Rue Des Cordiers, Intra Muros, 35400 Saint Malo, France",48.64764755,-2.02431947
+21,Hotel De L'univers,"12 Place Chateaubriand, Intra Muros, 35400 Saint Malo, France",48.65104101,-2.0237267
+22,Brit Hotel Le Surcouf,"17, avenue du Révérend Père umbricht, Sillon, 35400 Saint Malo, France",48.65773512,-1.99437261
+23,Hotel Ajoncs d'Or,"10 rue des Forgeurs, Intra Muros, 35400 Saint Malo, France",48.64735692,-2.02519655
+24,ibis Styles Saint Malo Port,"6-8 Quai du Val, 35400 Saint Malo, France",48.63962614,-2.01236531
+25,Kyriad Prestige Saint-Malo,"4 rue de la Guymauviere, 35400 Saint Malo, France",48.6360992,-1.98920667
+26,Otonali Hôtel by Breizh Café,"Angle Place Duguesclin and Quai Duguay Trouin, Sillon, 35400 Saint Malo, France",48.65224772,-2.01142341
+27,Logis Hôtel la Grassinais Saint-Malo,"12 Allée de la Grassinais, 35400 Saint Malo, France",48.6241745,-1.98798195
+28,Apparts'hôtel l'Europe - centre gare-,"42 Bd de la République, 35400 Saint Malo, France",48.64788206,-2.00856944
+29,Hôtel de la Cité,"Place Vauban, Intra Muros, 35400 Saint Malo, France",48.65130149,-2.02511072
+30,ibis Styles Saint Malo Centre Historique,"4 Place Du Poids Du Roi, Intra Muros, 35400 Saint Malo, France",48.64865586,-2.02398688
+31,"The Originals Boutique, Hôtel des Marins, Saint-Malo (Inter-Hotel)","2, Rue des Marins, Intra Muros, 35400 Saint Malo, France",48.64880649,-2.02491224
+32,ibis Saint Malo Plage,"58 Chaussée Du Sillon, Sillon, 35400 Saint Malo, France",48.65315671,-2.01220125
+33,Hôtel Cartier,"1, Rue de la Corne de Cerf, Intra Muros, 35400 Saint Malo, France",48.65001325,-2.02483177
+34,Mercure Saint Malo Balmoral,"24 Rue Théodore Monod, 35400 Saint Malo, France",48.64649567,-2.00599194
+35,Escale Oceania Saint Malo,"76 Chaussée du Sillon, Sillon, 35400 Saint Malo, France",48.65428009,-2.00883776
+36,Hôtel France et Chateaubriand,"Place Chateaubriand Bp 77, Intra Muros, 35400 Saint Malo, France",48.6511934,-2.02379644
+37,Ambassadeurs Logis Hotel,"11 Chaussée Du Sillon, Sillon, 35400 Saint Malo, France",48.65473054,-2.00773448
+38,Hôtel Le Jersey,"53, Chaussée Du Sillon, Sillon, 35400 Saint Malo, France",48.65545483,-2.0052436
+39,Mercure St Malo Front de Mer,"36 chaussée du Sillon, Sillon, 35400 Saint Malo, France",48.65256666,-2.01424241
+40,Hôtel L'Adresse,"3 rue des Poulieurs, Sillon, 35400 Saint Malo, France",48.65210596,-2.0171231
+41,Golden Tulip Saint Malo– Le Grand Bé,"1 place de Freres Lamennais, Intra Muros, 35400 Saint Malo, France",48.64956907,-2.02686496
+42,Home in Paris - Paris East,"Rue de la Réunion, 20th arr., 75020 Paris, France",48.8553796,2.4013476
+43,Loft in paris,"Rue de Montreuil, 11th arr., 75011 Paris, France",48.85042538,2.38801941
+44,MBM - TERRAGE,"Rue du Terrage, 10th arr., 75010 Paris, France",48.8774696,2.3626585
+45,Aparthotel Adagio Access Paris La Villette,"28bis avenue Corentin Cariou, 19th arr., 75019 Paris, France",48.89647206,2.38491297
+46,Huni Hôtel,"7 rue Jean Baptiste Dumay, 20th arr., 75020 Paris, France",48.87425077,2.38779366
+47,MBM - LOFT MARAIS,"Rue de Charonne, 11th arr., 75011 Paris, France",48.85329021,2.37766369
+48,MBM - CHEMIN VERT,"Rue du Chemin Vert, 11th arr., 75011 Paris, France",48.8601618,2.3781543
+49,Hôtel Paris Gambetta,"12 avenue du Père Lachaise, 20th arr., 75020 Paris, France",48.86412466,2.3979427
+50,Hôtel Lebron,"4 Rue Lamartine, 9th arr., 75009 Paris, France",48.8765948,2.34395161
+51,Ibis Paris Gare Montparnasse Catalogne,"11 Rue Du Texel, 14th arr., 75014 Paris, France",48.8368205,2.3178964
+52,Paris XV Multire - appartamento bilocale 4 posti,"20 Rue d'Oradour-sur-Glane, 75015 Paris, France",48.8310245,2.2827732
+53,Hipotel Paris Voltaire Bastille,"132 boulevard Voltaire, 11th arr., 75011 Paris, France",48.85732465,2.38058925
+54,Square Villaret Studio,"6 Square Villaret de Joyeuse, 17th arr., 75017 Paris, France",48.8774547,2.289234
+55,Dreamyflat - Bastille,"Rue du Faubourg Saint-Antoine, 12th arr., 75011 Paris, France",48.850359,2.381966
+56,Hipotel Lilas Gambetta,"223, avenue Gambetta, 20th arr., 75020 Paris, France",48.87428517,2.40526691
+57,Studio Arc de Triomphe,"47 Rue des Acacias, 17th arr., 75017 Paris, France",48.8780936,2.2934661
+58,Aparthotel Adagio Porte de Versailles,"16, rue Eliane Jeannin Garreau, 92130 Paris, France",48.8310834,2.28104442
+59,All Suites Appart & Hotel Paris 13 Porte d'Italie,"17 Rue Gerda Taro, 13th arr., 75013 Paris, France",48.816777,2.3576
+60,Hôtel Apollo Opéra,"32 rue de Douai, 9th arr., 75009 Paris, France",48.88260277,2.3326984
+61,Hôtel Coypel by Magna Arbor,"142 boulevard de l'hôpital, 13th arr., 75013 Paris, France",48.83337765,2.35659443
+62,Hipotel Paris Père-Lachaise République,"37 Rue Servan, 11th arr., 75011 Paris, France",48.86128242,2.38266282
+63,Hôtel Renoir Montparnasse,"39 rue de Montparnasse, 14th arr., 75014 Paris, France",48.84275077,2.32621416
+64,Aparthotel Adagio Paris XV,"20, rue d'Oradour-sur-Glane, 15th arr., 75015 Paris, France",48.83130941,2.28234261
+65,1 Bedroom RDC - Sacre Coeur,"92 Rue Marguerite de Rochechouart, 9th arr., 75009 Paris, France",48.88297,2.3470728
+66,Adagio Paris 19ème Cité de la Musique,"28 Boulevard d'Indochine, 19th arr., 75019 Paris, France",48.8848337,2.3974014
+67,"Villa Borghese, The Originals Relais","Avenue des Thermes, 04800 Gréoux-les-Bains, France",43.75813877,5.89472026
+68,Hôtel Les Deux Lions,"241 Rue Hilarion Bourret, 04500 Riez, France",43.81530926,6.09147906
+69,Résidence les Grands Pins,"Chemin Babaou, 04800 Gréoux-les-Bains, France",43.7556009,5.89457542
+70,Hotel Le Provence - Restaurant Le Styx,"Route de la Maline LE VILLAGE, 04120 La Palud sur Verdon, France",43.77898012,6.34123349
+71,Le Verdon,"43, avenue du Colombier, 04800 Gréoux-les-Bains, France",43.75820852,5.8968915
+72,Belambra Clubs Montpezat - Le Verdon,"Montpezat, 04500 Montagnac, France",43.7503892,6.08834624
+73,Le Relais Notre Dame,"Route de Montmeyan, 04500 Quinson, France",43.69908887,6.03723943
+74,Hotel Grand Canyon du Verdon,"Falaise des Cavaliers, 83630 Aiguines, France",43.75062075,6.32130259
+75,Hôtel Le Colombier,"Quartier Saint Michel, 04360 Moustiers-Sainte-Marie, France",43.8398124,6.22183442
+76,La Bastide du Calalou; BW Signature Collection,"893 Route de Baudinard, 83630 Moissac-Bellevue, France",43.65436638,6.16950452
+77,Hôtel des Alpes,"19, Avenue des Alpes, 04800 Gréoux-les-Bains, France",43.75869671,5.88205487
+78,Villa Castellane,"171 Avenue des Thermes, 04800 Gréoux-les-Bains, France",43.758087,5.890188
+79,Hotel & Spa des Gorges du Verdon,"Route de La Maline, 04120 La Palud sur Verdon, France",43.77533343,6.34465277
+80,Adagio Grenoble Centre,"6 rue Auguste Genin, 38000 Grenoble, France",45.18960902,5.7121785
+81,COWOOL GRENOBLE,"1 Avenue d'Innsbruck, 38100 Grenoble, France",45.1586663,5.734091
+82,Residhome Grenoble Caserne De Bonne,"21 Rue Lazare Carnot, 38000 Grenoble, France",45.18346987,5.72433829
+83,The Originals Residence KOSY appart'hôtels - Les Cèdres,"Avenue M. Berthelot, 38100 Grenoble, France",45.17894378,5.73206306
+84,Apparthotel Le Hüb Grenoble,"25 Avenue Doyen Louis Weil, 38000 Grenoble, France",45.192873,5.711917
+85,Residhotel Grenette,"12 Rue De Palanka, 38000 Grenoble, France",45.19056363,5.72448447
+86,Residhotel Le Central'Gare,"8 Place de la Gare, 38000 Grenoble, France",45.19085898,5.71572438
+87,Novotel Grenoble Centre,"7 Place Robert Schuman, 38000 Grenoble, France",45.190695,5.71259558
+88,ibis Grenoble Gare,"27 Quai Claude Bernard, 38000 Grenoble, France",45.192898,5.71739092
+89,Mercure Grenoble Centre Alpotel,"12 Boulevard Maréchal Joffre, 38000 Grenoble, France",45.18327326,5.72969198
+90,Hôtel d’Angleterre Grenoble Hyper-Centre,"5, place Victor Hugo, 38000 Grenoble, France",45.18920402,5.72537228
+91,Hotel Mercure Grenoble Centre Président,"11, Rue Général Mangin, 38100 Grenoble, France",45.17849379,5.72029755
+92,Hotel Europole,"29 Rue Pierre Sémard, 38000 Grenoble, France",45.19023755,5.71266398
+93,Maison Barbillon Grenoble,"10, Rue Barbillon, 38000 Grenoble, France",45.1907933,5.71669668
+94,"Le Grand Hôtel Grenoble, BW Premier Collection by Best Western","5 rue de la Republique, 38000 Grenoble, France",45.19081504,5.72854802
+95,Okko Hotels Grenoble Jardin Hoche,"23 rue Hoche, 38000 Grenoble, France",45.18495018,5.72598981
+96,Les Appartements de Grenoble,"15 Rue Maurice Gignoux, 38000 Grenoble, France",45.19581084,5.72544678
+97,ibis Styles Grenoble Centre Gare,"25 Avenue Félix Viallet, 38000 Grenoble, France",45.19089537,5.71967997
+98,Hôtel de l'Europe Grenoble hyper-centre,"22 Place Grenette, 38000 Grenoble, France",45.19035711,5.72733097
+99,Park Hôtel Grenoble - MGallery,"10 Place Paul Mistral, 38000 Grenoble, France",45.18410131,5.73294818
+100,RockyPop Grenoble Hotel,"9 Rue de Strasbourg, 38000 Grenoble, France",45.186911,5.731293
+101,RockyPop Grenoble Appartements,"11 Rue de Strasbourg, 38000 Grenoble, France",45.186804,5.73157
+102,Le Mokca,"18-20, Avenue de Verdun, 38240 Meylan, France",45.2036571,5.76178998
+103,"The Originals City, Hôtel Villancourt, Grenoble Sud (Inter-Hotel)","98, cours Saint André, 38800 Le Pont-de-Claix, France",45.13900627,5.70299327
+104,Hôtel Le Néron - Logis,"8 Avenue De La Louisiane, Saint Egreve Le Fontanil, 38120 Fontanil-Cornillon, France",45.24524515,5.65733671
+105,Appart'City Classic Aix-en-Provence - La Duranne,"300 Avenue Du Grand Vallat, 13290 Aix-en-Provence, France",43.49249327,5.35120279
+106,Adonis Arc Hotel Aix,"40 Av Henri Malacrida Val Saint André, 13100 Aix-en-Provence, France",43.51371445,5.4702124
+107,Odalys City Aix en Provence L'Atrium,"15 Cours Gambetta - Espace Forbin, 13100 Aix-en-Provence, France",43.52409101,5.45521617
+108,Résidence Les Académies Aixoise,"85 Rue Paul Sabatier, 13090 Aix-en-Provence, France",43.52724,5.404795
+109,Les appartements du Clos de la Chartreuse By Ateya,"42 Route de Galice, 13090 Aix-en-Provence, France",43.5300688,5.42585107
+110,Odalys City Aix en Provence Le Clos de la Chartreuse,"42, route de Galice, 13090 Aix-en-Provence, France",43.530003,5.42569578
+111,Zenitude Hôtel-Résidences Le Tholonet,"445, Allée François Aubrun, 13100 Aix-en-Provence, France",43.51184318,5.48670664
+112,Novotel Aix-en-Provence Beaumanoir,"Rue Marcel Arnaud, 13100 Aix-en-Provence, France",43.5134822,5.46591148
+113,Adonis Aix en Provence,"CD10 route de Berre, 13510 Aix-en-Provence, France",43.54124585,5.37295818
+114,Best Western Le Galice Centre Ville,"5 Route de Galice, 13090 Aix-en-Provence, France",43.5280311,5.43435931
+115,The Originals Résidence Aix Schuman,"1 Avenue Robert Schuman, 13090 Aix-en-Provence, France",43.5205148,5.4471929
+116,Novotel Aix-en-Provence Pont de L'Arc,"Avenue Arc de Meyran, 13100 Aix-en-Provence, France",43.51169339,5.45698643
+117,Aparthotel Adagio Aix-en-Provence Centre,"3/5, rue des Chartreux, 13100 Aix-en-Provence, France",43.52890621,5.44086903
+118,LES JARDINS D'ATHENA,"3828 Route de Berre, 13100 Aix-en-Provence, France",43.543386,5.373794
+119,Catherine Studios,"25 Rue Lisse Saint-Louis, 13100 Aix-en-Provence, France",43.530269,5.451873
+120,Les Terrasses D'Aix - Studio avec Grande Terrasse privée,"Résidence Le Set Home, route de Berre 3828, 13510 Aix-en-Provence, France",43.54134102,5.37316071
+121,Escale Oceania Aix-en-Provence,"12 Avenue de la Cible, 13100 Aix-en-Provence, France",43.51275995,5.46111703
+122,Casa Hotel,"4 rue Irma Moreau, 13100 Aix-en-Provence, France",43.52741865,5.44165731
+123,Le Mas des Ecureuils,"1170 Petite Route des Milles, 13090 Aix-en-Provence, France",43.51133967,5.39091155
+124,La Caravelle,"29, boulevard du Roi René, 13100 Aix-en-Provence, France",43.52485921,5.45370072
+125,Studios Nuitée en Provence,"3828 Route de Berre - Résidence Adonis, 13100 Aix-en-Provence, France",43.54358226,5.37343823
+126,Odalys City Aix en Provence Les Floridianes,"24 Boulevard Albert Charrier, 13090 Aix-en-Provence, France",43.52133318,5.44477701
+127,Negrecoste Hôtel & Spa,"33, Cours Mirabeau, 13100 Aix-en-Provence, France",43.52684969,5.44901088
+128,LA GRACETTE Les Studios,"Les studios 830 Route de l'Enfant, 13290 Aix-en-Provence, France",43.49041,5.3839
+129,Hôtel Birdy by Happyculture,"775, Avenue Guillibert-De-La-Lauzière Pichaury Ii, Les Milles, 13591 Aix-en-Provence, France",43.48142972,5.3656143
+130,Résidence Pierre & Vacances Premium Haguna,"17, Avenue De La Reine Victoria, 64200 Biarritz, France",43.48534536,-1.5525806
+131,Sure Hotel by Best Western Biarritz Aeroport,"24 boulevard marcel dassault, 64200 Biarritz, France",43.4722079,-1.53489947
+132,Campanile Biarritz,"43 rue Chapelet - Boulevard Marcel Dassault RN 10 Rond Point du mousse, 64200 Biarritz, France",43.46638758,-1.54004395
+133,Hôtel Maïtagaria,"34 Avenue Carnot, 64200 Biarritz, France",43.47897745,-1.56064063
+134,Hôtel Oxo,"38 Avenue De Verdun, 64200 Biarritz, France",43.48176836,-1.55452318
+135,Hotel Barnetche,"5 Avenue Charles Floquet, 64200 Biarritz, France",43.47991653,-1.55614123
+136,Nemea Appart Hotel Les Hauts de Milady Biarritz,"24 Avenue de la Milady, 64200 Biarritz, France",43.4702245,-1.5678466
+137,Radisson Blu Hotel Biarritz,"1 Carrefour Helianthe, 64200 Biarritz, France",43.47827192,-1.56469077
+138,Hôtel Florida,"3-5 place Sainte Eugenie, 64200 Biarritz, France",43.48222961,-1.56399071
+139,Hôtel Mirano,"11 Avenue Pasteur, 64200 Biarritz, France",43.47436556,-1.55264899
+140,Résidence Mer & Golf Eugénie,"54-56 Rue de Madrid, 64200 Biarritz, France",43.46963652,-1.56949058
+141,ALFRED HOTELS Les Halles - Ex Hotel Anjou,"18, Rue Gambetta, 64200 Biarritz, France",43.4816944,-1.56308413
+142,Résidence Biarritz Ocean,"10, Rue Etienne Ardoin, 64200 Biarritz, France",43.48040601,-1.55796111
+143,Brit Hotel Marbella,"11 Rue Du Port Vieux, 64200 Biarritz, France",43.48204861,-1.56584948
+144,Urban Style Biarritz Le Relais,"44 Avenue de la Marne, 64200 Biarritz, France",43.48405704,-1.54899716
+145,Grand Tonic Hotel & SPA NUXE,"58 Avenue Edouard VII, 64200 Biarritz, France",43.48447351,-1.55694455
+146,Hotel Saint Julien,"20 Avenue Carnot, 64200 Biarritz, France",43.479139,-1.56227544
+147,ibis Styles Biarritz Plage,"30 Avenue de La Milady, 64200 Biarritz, France",43.46889876,-1.5685612
+148,Saint Charles Hôtel & Coliving Biarritz,"47 avenue Reine Victoria, 64200 Biarritz, France",43.48538136,-1.54920369
+149,"Hôtel Jules Verne, BW Signature Collection","2, rue Guy Petit, 64200 Biarritz, France",43.47853954,-1.5553996
+150,Hôtel & Espace Bien-être La Maison du Lierre,"3 avenue du Jardin Public, 64200 Biarritz, France",43.48013354,-1.56076133
+151,La Suite,"5 Avenue Edouard VII, 64200 Biarritz, France",43.4836409,-1.558741
+152,ALFRED HOTELS Port-Vieux - Ex Georges VI,"Rue du Port Vieux, 64200 Biarritz, France",43.48218971,-1.5663591
+153,Mercure Président Biarritz Plage,"18 Place Georges Clémenceau, 64200 Biarritz, France",43.4818647,-1.55975819
+154,Best Western Kemaris,"35 Avenue du Maréchal Joffre, 64200 Biarritz, France",43.4765027,-1.56245649
+155,Residhome Toulouse Tolosa,"279 avenue Grande Bretagne, 31300 Toulouse, France",43.60693822,1.39923401
+156,Résidences Guerlin,"46 Allée Jean Jaurès, 31000 Toulouse, France",43.606603,1.450683
+157,Nemea Appart Hotel Toulouse Aéroport,"4 Rue Alain Fournier - St Martin du Touch, 31300 Toulouse, France",43.60777383,1.37139402
+158,Zenitude Hôtel-Résidences Toulouse Métropole,"1, Allée Antoine Osete, 31100 Toulouse, France",43.59149221,1.40322983
+159,Residhotel Toulouse Centre,"11 avenue de La Garonnette, 31000 Toulouse, France",43.59539161,1.44120499
+160,Novotel Toulouse Purpan Aéroport,"23, Impasse de Maubec, 31300 Toulouse, France",43.60553305,1.39876261
+161,Appart'City Confort Toulouse Purpan,"4 Impasse de Lisieux, 31300 Toulouse, France",43.59868349,1.39488816
+162,COWOOL TOULOUSE,"6 Avenue Hubert Curien, 31100 Toulouse, France",43.5569281,1.4298415
+163,Hotel Ours Blanc - Centre,"2, rue Porte Sardane, 31000 Toulouse, France",43.606274,1.44707523
+164,Residhome Toulouse Occitania,"93 Avenue De Lombez, 31300 Toulouse, France",43.5938049,1.41036384
+165,Zenitude Hôtel-Résidences Le Parc de l'Escale,"8 Rue de Caulet, 31300 Toulouse, France",43.60596325,1.35816336
+166,Aparthotel Adagio Original Toulouse Centre La Grave,"24 Rue du Pont Saint-Pierre, 31300 Toulouse, France",43.59971338,1.43289982
+167,Lagrange Aparthotel Toulouse Saint-Michel,"36 Grande Rue Saint Michel, 31400 Toulouse, France",43.58763592,1.44667894
+168,Le Clocher de Rodez Centre Gare,"14 & 15 Place Jeanne d'Arc, 31000 Toulouse, France",43.60886287,1.44635975
+169,Aparthotel Adagio Access Toulouse St Cyprien,"37 ter Avenue Etienne Billière, 31300 Toulouse, France",43.59721694,1.42789274
+170,Résidence SWEETLY Alexandrin,"41 Rue Corneille, 31100 Toulouse, France",43.59192,1.411554
+171,Grand Hôtel d'Orléans,"72 Rue Bayard, 31000 Toulouse, France",43.61101758,1.45184956
+172,Apparteo Toulouse,"46 Boulevard Déodat de Sévérac, 31300 Toulouse, France",43.5889032,1.4238784
+173,Residhome Toulouse Ponts Jumeaux,"105 Boulevard de l'Embouchure, 31200 Toulouse, France",43.61177,1.421825
+174,Hotel Mercure Toulouse Centre Compans,"Boulevard Lascrosses, 31000 Toulouse, France",43.61064762,1.43494427
+175,Montempô + Apparthôtel Toulouse Cité Internationale,"17 Rue Sainte-Catherine, 31400 Toulouse, France",43.5908572,1.4468588
+176,Montempô Apparthôtel Toulouse Balma,"81 Chemin de Gabardie, 31200 Toulouse, France",43.6343031,1.4817265
+177,Plaza Hotel Capitole Toulouse,"7 Place du Capitole, 31000 Toulouse, France",43.60373649,1.44275352
+178,Odalys City Toulouse Colombélie,"76 rue de la Colombette, 31000 Toulouse, France",43.605809,1.455719
+179,Alezan Hôtel & Résidence,"2 Allée Antoine Osete, 31100 Toulouse, France",43.59199495,1.40406065
+180,Appart'City Confort Marseille Centre Prado Vélodrome,"1 Rue Vandel, 13008 Marseille, France",43.2798554,5.390496
+181,Staycity Aparthotels Marseille Centre Vieux Port,"4 Place Pierre Bertas, 13001 Marseille, France",43.30046625,5.37444157
+182,Résidence Carpe Diem,"Résidence Carpe Diem 29 rue Pautrier, 13004 Marseille, France",43.30983566,5.39277493
+183,Appart'City Classic Marseille Euromed,"118-120 rue de Ruffi, 13002 Marseille, France",43.3148132,5.3694651
+184,Aparthotel Adagio Access Marseille Prado Périer,"161 Avenue de Prado, 13008 Marseille, France",43.27869234,5.38806036
+185,Citadines Castellane Marseille,"60 Rue du Rouet, Castellane et Préfecture, 13006 Marseille, France",43.28282806,5.38725905
+186,Citadines Prado Chanot Marseille,"9-11 Boulevard du Louvain, 13008 Marseille, France",43.27647108,5.3911972
+187,Odalys City Marseille Prado Castellane,"114 rue du Rouet et 12 rue de Cassis, 13008 Marseille, France",43.27977452,5.3905347
+188,Odalys City Marseille Le Dôme,"27, Boulevard du Marechal Juin, Les Chartreux, 13004 Marseille, France",43.31106501,5.40359886
+189,Aparthotel Adagio Marseille Timone,"21, Chemin de l'Armée d'Afrique, Saint-Pierre, 13005 Marseille, France",43.2910567,5.40434003
+190,Apparteo Marseille,"12 allée Marcel Leclerc, Bâtiment A, 13008 Marseille, France",43.26811604,5.3945848
+191,Zenitude Hôtel Résidences Marseille Saint-Charles,"10, Boulevard Charles Nedelec, 13001 Marseille, France",43.30230886,5.37691176
+192,Aparthotel Adagio Access Marseille Saint Charles,"23, Rue Honnorat, Belle de Mai - Saint-Lazare, 13003 Marseille, France",43.30459067,5.3819409
+193,ibis Marseille Centre Euromed,"25 Boulevard de Dunkerque, 13002 Marseille, France",43.307901,5.36782017
+194,Odalys City Marseille Centre Euromed,"4 Rue Jean-Gaspard Vence, 13002 Marseille, France",43.312771,5.367682
+195,Residhome Marseille,"23 Rue Mazenod, 13002 Marseille, France",43.302737,5.365624
+196,Radisson Blu Hotel Marseille Vieux Port,"38-40 Quai Rive Neuve, 13007 Marseille, France",43.2925834,5.36702782
+197,Mama Shelter Marseille,"64 Rue de la Loubière, 13006 Marseille, France",43.2906598,5.38873054
+198,URBAN LOFT & SPA Marseille,"17-21 Place des Marseillaises, 13001 Marseille, France",43.30174056,5.37969984
+199,Hôtel Edmond Rostand,"31, Rue Dragon, Castellane et Préfecture, 13006 Marseille, France",43.28832338,5.38060784
+200,Saint Ferréol,"19 rue Pisançon, 13001 Marseille, France",43.29414715,5.37832126
+201,Les Appartements de Babel Vieux Port,"21 Rue Haxo, 13001 Marseille, France",43.2937579,5.3774478
+202,Hôtel Marsiho by HappyCulture - ex Best Western Marseille,"16, Cours Belsunce, 13001 Marseille, France",43.29732159,5.37753899
+203,Le Drip's,"98 Avenue Elsa Triolet, 13008 Marseille, France",43.247273,5.390431
+204,Residhotel Le Grand Prado,"7 Square des Frères Ambrogiani - Allées Turcat Mery, 13008 Marseille, France",43.28080124,5.38825348
+205,Residence Pierre & Vacances Les Balcons de Collioure,"28, route de Port Vendres, 66190 Collioure, France",42.52510633,3.0904362
+206,HOTEL AMBEILLE,"ROUTE D'ARGELES, 66190 Collioure, France",42.52545814,3.07903365
+207,Le Mas des Citronniers,"22 Avenue de La Republique, 66190 Collioure, France",42.52538159,3.08256391
+208,Le Madeloc Hôtel & Spa,"24 Rue Romain Rolland, 66190 Collioure, France",42.52876467,3.07865426
+209,La Frégate,"24 Boulevard Camille Pelletan, 66190 Collioure, France",42.52638625,3.08325659
+210,Grand Hotel Du Golfe - Spa & Gastronomie,"3638 Route De Collioure, 66008 Collioure, France",42.53378311,3.06433797
+211,Hotel Le Bon Port,"12 Route De Port-Vendres, 66190 Collioure, France",42.52411449,3.08936566
+212,Le Relais Des Trois Mas,"Route De Port Vendres, 66190 Collioure, France",42.52417281,3.08931068
+213,Maison Nova - Boutique Hôtel & Spa,"33 Route du Pla de las Fourques, 66190 Collioure, France",42.5288828,3.0793938
+214,Vacancéole - Les demeures de la Massane - Argelès-sur-Mer,"5 impasse Edmond Brazes Chemin Neguebous, 66700 Argelès-sur-Mer, France",42.555066,3.02524477
+215,Hotel Centre Plage,"4 Allée Des Palmiers, 66700 Argelès-sur-Mer, France",42.55138004,3.04677956
+216,Hotel Sur Le Quai,"2 Quai Pierre Forgas, 66660 Port-Vendres, France",42.51670969,3.10529835
+217,Résidence Mer & Golf Port Argelès,"Rue Eric Tabarly, 66700 Argelès-sur-Mer, France",42.54130152,3.04694867
+218,Logis Hotel Solhotel,"Alain Gerbault, 66650 Banyuls-sur-Mer, France",42.48571483,3.13000917
+219,Ibis Styles Collioure Port Vendres,"9004 Route De collioure, 66660 Port-Vendres, France",42.523056,3.101111
+220,Acapella Hotel,"1 Chemin de Néguebous, 66700 Argelès-sur-Mer, France",42.55429049,3.02583754
+221,Hôtel Beau Rivage,"Avenue De La Plage - 1, Allée Du Racou, 66700 Argelès-sur-Mer, France",42.55069737,3.04759026
+222,Le Fanal,"50 Avenue Torre d'en Sorra, 66700 Argelès-sur-Mer, France",42.5362902,3.05618472
+223,Logis Les Charmettes,"30, Av. Du Tech, 66700 Argelès-sur-Mer, France",42.55589384,3.042714
+224,Plage des Pins,"Allée des Pins, 66700 Argelès-sur-Mer, France",42.5572413,3.04597557
+225,Les Jardins Du Cèdre,"29 Route de Banyuls, 66660 Port-Vendres, France",42.51312071,3.10967669
+226,Intense Boutik-Hôtel,"21 Avenue castellane, 66660 Port-Vendres, France",42.515473,3.105115
+227,Hôtel & Spa Les Mouettes,"Route de Collioure, 66700 Argelès-sur-Mer, France",42.53411713,3.06205675
+228,Hôtel Le Cottage,"21 Rue Arthur Rimbaud, 66700 Argelès-sur-Mer, France",42.54631954,3.02890062
+229,Côté Thalasso Hôtel & Spa Marin,"Route de Cerbère, 66650 Banyuls-sur-Mer, France",42.4789913,3.14063877
+230,Résidence Pierre & Vacances La Petite Venise,"11 avenue Joffre, 68000 Colmar, France",48.07093986,7.35386556
+231,"The Originals City, Hôtel Colmar Gare","2, rue des Trois Epis, 68000 Colmar, France",48.07705927,7.34933853
+232,"Travel Homes - Rapp, charm in the heart of Colmar","1 Avenue de la République, 68000 Colmar, France",48.0779724,7.3540551
+233,Hotel L'Europe,"15 route de Neuf Brisach - Horbourg Wihr, 68180 Colmar, France",48.07720622,7.40387186
+234,Campanile Colmar - Parc des Expositions,"8 rue des métiers, 68000 Colmar, France",48.10965199,7.36455202
+235,Odalys City Colmar La Rose d'Argent,"2 RUE DU GRILLENBREIT, 68000 Colmar, France",48.07891558,7.36514839
+236,Grand Hôtel Bristol,"7 place de La Gare, 68000 Colmar, France",48.07245883,7.34755754
+237,ibis Colmar Est - Hotel Restaurant en Alsace,"13, Route De Neuf-Brisach - Horbourg Wihr, 68180 Colmar, France",48.07790332,7.40279764
+238,Logis Hôtel Beauséjour Colmar,"25, rue du Ladhof, 68000 Colmar, France",48.08405233,7.36607082
+239,Hotel Saint-Martin,"38, Grand'Rue, 68000 Colmar, France",48.07641681,7.35935189
+240,Résidence de l'ancien relais,"14 Rue de l'Église, 68000 Colmar, France",48.0767618,7.3590849
+241,Kyriad Colmar Centre Unterlinden,"2 Rue De La Fecht, 68000 Colmar, France",48.08601523,7.35729933
+242,Hôtel Turenne,"10 Route de Bâle, 68000 Colmar, France",48.07192026,7.36053944
+243,Hotel Le Colombier,"7 rue Turenne, 68000 Colmar, France",48.07376803,7.35829376
+244,Hotel Restaurant Le Maréchal - Teritoria,"6 place des six Montagnes Noires, 68000 Colmar, France",48.07357179,7.35667169
+245,Hôtel Le Rapp,"1, Rue Weinemer, 68000 Colmar, France",48.0764186,7.35596895
+246,James Boutique Hôtel Colmar centre,"15 rue Saint-Eloi, 68000 Colmar, France",48.07934802,7.3644799
+247,Hotel Le Colombier Suites,"11 Rue de la Poissonnerie, 68000 Colmar, France",48.07394456,7.35857606
+248,Relais & Châteaux La Maison Des Têtes,"19 Rue des Têtes, 68000 Colmar, France",48.07859549,7.35552706
+249,L'esquisse Hotel & Spa Colmar - MGallery,"2 Avenue De La Marne, 68000 Colmar, France",48.07545714,7.35353217
+250,Hotel Restaurant Cristal,"91 Rue Clemenceau, 68920 Wintzenheim, France",48.07390014,7.28547303
+251,Hôtel des Deux Clefs,"3 Rue Du Conseil, 68230 Turckheim, France",48.08721749,7.2778818
+252,"Brit Hotel, Spa & Restaurant - Colmar Est","3 Grand Rue, 68320 Bischwihr, France",48.09240244,7.43310928
+253,Résidence Pierre & Vacances Le Clos d'Eguisheim,"Route De Wettolsheim, 68420 Eguisheim, France",48.04502734,7.31185466
+254,Résidence Les Rives de la Fecht - Colmar Ouest,"18 quai de la Fecht, 68040 Ingersheim, France",48.09957165,7.31126994
+255,Séjours & Affaires Strasbourg Kleber,"16 Rue Hannong, 67000 Strasbourg, France",48.58319667,7.74285212
+256,ibis Strasbourg Centre Petite France,"18 rue du Faubourg National, 67000 Strasbourg, France",48.58253971,7.73732672
+257,Médicis Home Strasbourg,"5 rue Alice Guy, 67100 Strasbourg, France",48.5732564,7.76572449
+258,Nemea Appart Hotel Elypseo Strasbourg Port,"45 A Avenue du Rhin, 67100 Strasbourg, France",48.56979606,7.77922116
+259,Appart'City Confort Strasbourg Centre,"11 rue de Molsheim, 67000 Strasbourg, France",48.57772068,7.73397669
+260,ibis Strasbourg Centre Gare,"10 place de la Gare, 67000 Strasbourg, France",48.5844952,7.73657061
+261,Résidence La Canopée,"5 Rue Jacques Kablé, 67000 Strasbourg, France",48.59274972,7.74505986
+262,Montempô Apparthôtel Strasbourg,"3 Rue de Koenigshoffen, 67000 Strasbourg, France",48.57942103,7.73011345
+263,Zenao Appart'hôtels Strasbourg,"2 Rue Jacques et René Knecht, 67000 Strasbourg, France",48.6140326,7.7899056
+264,Hilton Strasbourg,"1 Avenue Herrenschmidt, 67000 Strasbourg, France",48.59655677,7.7552855
+265,Citadines Kléber Strasbourg,"50-54 Rue Du Jeu Des Enfants, 67000 Strasbourg, France",48.58384564,7.74342477
+266,City Résidence Strasbourg Centre,"1 Rue des Magasins, 67000 Strasbourg, France",48.58906194,7.73879863
+267,Le Jean-Sébastien Bach,"6, boulevard Jean-Sébastien Bach, 67000 Strasbourg, France",48.58816909,7.77828276
+268,Hotel de l'Orangerie,"58 Allee de la Robertsau, 67000 Strasbourg, France",48.5904876,7.7685278
+269,Cerise Strasbourg,"5, Rue Job, 67100 Strasbourg, France",48.56051607,7.74588168
+270,"Holiday Inn Express Strasbourg Centre, an IHG Hotel","Rue de la Corderie, 67000 Strasbourg, France",48.57154052,7.74525492
+271,Hôtel Restaurant Athena Spa,"1 Rue Armande Béjart, 67200 Strasbourg, France",48.59173665,7.71170497
+272,Hotel Kaijoo by HappyCulture,"20, Rue du Jeu des Enfants, 67000 Strasbourg, France",48.58341403,7.74176516
+273,Le Lodge Brit Hotel Strasbourg Zenith,"10 Rue Paul Eluard, 67200 Strasbourg, France",48.58829415,7.69744687
+274,Aparthotel Adagio Strasbourg Place Kleber,"4 Rue De La Haute Montée, 67000 Strasbourg, France",48.58424797,7.74583608
+275,Aparthotel Adagio Access Strasbourg Petite France,"27 rue de Wasselonne , 67000 Strasbourg, France",48.57924766,7.73222588
+276,Hotel Saint Augustin,"13 rue Kuhn, 67000 Strasbourg, France",48.58490536,7.73780487
+277,BOMA easy living hotel,"7 Rue du Vingt-Deux Novembre, 67000 Strasbourg, France",48.5828931,7.7420407
+278,ibis Styles Strasbourg Stade de la Meinau,"222 avenue de Colmar, 67100 Strasbourg, France",48.5561877,7.7462479
+279,ibis Strasbourg Centre Les Halles,"1 Rue Sebastopol, 67000 Strasbourg, France",48.58599411,7.74306346
+280,Hôtel la Croix Blanche,"grande rue, 50170 Le Mont Saint Michel, France",48.63573406,-1.50986105
+281,Mercure Mont Saint Michel,"La Caserne, 50170 Le Mont Saint Michel, France",48.61424653,-1.51054502
+282,Le Relais Du Roy,"La Caserne, 50170 Le Mont Saint Michel, France",48.6162627,-1.51090577
+283,Auberge Saint Pierre,"Grande Rue, 50170 Le Mont Saint Michel, France",48.63568798,-1.50988251
+284,Le Relais Saint Michel,"La Caserne, 50170 Le Mont Saint Michel, France",48.61758727,-1.51039615
+285,Vacancéole - Le Domaine du Mont - Mont St Michel,"Route de la Baie, L'Hôpital, 35610 Roz-sur-Couesnon, France",48.59352509,-1.59637034
+286,"Manoir de la Roche Torin, The Originals Relais (Relais du Silence)","34 route de la La Roche Torin, 50220  Courtils, France",48.63727298,-1.42506182
+287,"The Originals Boutique, Hôtel Les Quatre Salines, Le Mont Saint-Michel Sud (Inter-Hotel)","Rue des 4 Salines, 35610 Roz-sur-Couesnon, France",48.59640422,-1.58920348
+288,Ermitage - Mont-Saint-Michel,"14 Route du Mont Saint-Michel, 50170 Beauvoir, France",48.59449,-1.511429
+289,Ducey Appart'Hôtel - Les Rivières,"19 Rue des Chéris, 50220 Ducey, France",48.62043152,-1.28993558
+290,Hotel Beau Rivage,"21 Rue de la Mairie, 35960 Le Vivier-sur-Mer, France",48.60207329,-1.76907778
+291,Altos Hotel & Spa,"37 bd du Luxembourg, 50300 Avranches, France",48.67605344,-1.35480523
+292,Hôtel les 13 Assiettes,"6 rue de la Quintine, A84 sortie Cromel, direction Pontaubault, 50300 Le Val-Saint-Père, France",48.63907772,-1.35193348
+293,Best Western Le Moulin de Ducey,"1 Grande Rue, 50220 Ducey, France",48.61915117,-1.29541308
+294,Logis Auberge De La Sélune,"2 Rue Saint-Germain, 50220 Ducey, France",48.61949515,-1.29467815
+295,La Ramade - Teritoria,"2 Rue De La Côte Marcey les grèves, 50300 Avranches, France",48.6936516,-1.37474477
+296,Mercure Granville Le Grand Large,"5 rue de la Falaise, 50406 Granville, France",48.83950307,-1.59645885
+297,Hôtel de la Baie - Thalassothérapie PREVITHAL,"Rue de l'Ermitage - CS 30618, 50350 Donville-les-Bains, France",48.852951,-1.581469
+298,Zenitude Hôtel-Résidences Les Hauts Du Chazal,"26, rue Paul Milleret, 25000 Besançon, France",47.22448656,5.95612407
+299,ibis Besançon Centre la City,"1 avenue Louise Michel, 25000 Besançon, France",47.2354914,6.01498839
+300,Comfort Aparthotel Besancon La City,"11 Avenue Louise Michel, 25000 Besançon, France",47.23568252,6.0140115
+301,All Suites Besançon,"17 Avenue des Montboucons, 25000 Besançon, France",47.25435723,5.99548012
+302,ibis Styles Besançon,"22 bis Rue de Trey, 25000 Besançon, France",47.25425346,6.0216397
+303,Hotel Campanile Besançon Nord Ecole Valentin,"1 Rue de Châtillon - Espace Valentin, 25480 Besançon, France",47.27784785,5.99291325
+304,Campanile Besançon-Ouest Châteaufarine,"4 Rue Louis Aragon, 25000 Besançon, France",47.21604477,5.94349623
+305,Contact Hôtel Foch,"7 Bis Avenue Foch, 25000 Besançon, France",47.24619696,6.02335095
+306,Brit Hotel Besancon l'Horloge,"1 Route de Marchaux, 25000 Besançon, France",47.26358654,6.05153292
+307,ibis Besançon Centre Ville,"21 rue Gambetta, 25000 Besançon, France",47.24045605,6.02599533
+308,Hôtel Fontaine Argent - Centre Ville,"23 Avenue Fontaine-Argent, 25000 Besançon, France",47.246146,6.033186
+309,Hôtel AKENA BESANCON,"1 Rue Victor Considérant, 25770 Besançon, France",47.23547525,5.9000854
+310,Logis Hôtel Victor Hugo & Spa,"6, Rue de La Viotte, 25000 Besançon, France",47.24741871,6.02364331
+311,Hôtel de Paris,"33 rue des Granges, 25000 Besançon, France",47.23856537,6.02532506
+312,Aux Ateliers,"4 Chemin des Trois Croix, 25480 Miserey-Salines, France",47.281352,5.986017
+313,ibis Besançon Marchaux,"A36 aire de Besançon Marchaux, 25640 Marchaux, France",47.32734311,6.12605274
+314,La Table de Gustave,"11 rue Jacques Gervais, 25290 Ornans, France",47.10343151,6.15138888
+315,Birgit Hôtel Le Havre Centre,"Quai Colbert, 76600 Le Havre, France",49.49308921,0.13096154
+316,ibis Le Havre Centre,"Rue 129ème R. I. - Parking: 120 Rue Jules Siegfried, Perret, 76600 Le Havre, France",49.49164142,0.11876017
+317,All Suites Appart Hotel Le Havre,"5-7 Place Armand Frémont, 76600 Le Havre, France",49.488691,0.125929
+318,Aparthotel Adagio Access Le Havre Les Docks,"66 Rue de l'aviateur Guerin, 76600 Le Havre, France",49.48741929,0.13151121
+319,Lh Rooms Location,"64 Rue de Pressensé, 76600 Le Havre, France",49.496706,0.152229
+320,Novotel Le Havre Centre Gare,"20 Cours Lafayette, 76600 Le Havre, France",49.49160831,0.12526989
+321,Odalys City Le Havre Centre Gare,"25 Cours Commandant Fratacci, Perret, 76600 Le Havre, France",49.49190808,0.12316179
+322,Odalys City Le Havre Centre Les Docks,"95 Quai Colbert, 76600 Le Havre, France",49.4925039,0.129779
+323,Résidence Hôtelière de l'Estuaire,"92 Rue Anatole France, 76600 Le Havre, France",49.4955557,0.116637
+324,Smart Appart Le Havre 105,"105 Cours de la République, 76600 Le Havre, France",49.4968623,0.1270729
+325,Zenitude Hôtel-Résidences Le Havre,"23, Rue Fénelon, 76600 Le Havre, France",49.50008887,0.14129341
+326,JOST Hôtel Le Havre Centre Gare,"25 Rue Lesueur, 76600 Le Havre, France",49.493988,0.1227326
+327,Mercure Le Havre Centre Bassin Du Commerce,"Chaussée Georges Pompidou, 76600 Le Havre, France",49.49033645,0.11681288
+328,Smart Appart Le Havre 97,"97 Cours de la République, 76600 Le Havre, France",49.4965388,0.126814
+329,Hôtel Carmin,"15, Rue Georges Braque, Perret, 76600 Le Havre, France",49.49493852,0.10553956
+330,"The Originals Boutique, Hôtel Le Marignan,Le Havre Centre Gare","211 Boulevard de Strasbourg, Perret, 76600 Le Havre, France",49.49227908,0.12310803
+331,ibis Styles Le Havre Centre,"121 Rue De Paris, Perret, 76600 Le Havre, France",49.48849655,0.107342
+332,Hôtel Spa Vent d'Ouest,"4 Rue De Caligny, Perret, 76600 Le Havre, France",49.49141928,0.10070756
+333,Best Western Plus Le Havre Centre Gare,"23, Cours De La République, 76600 Le Havre, France",49.49334357,0.12431771
+334,Best Western ARThotel,"147 Rue Louis Brindeau, Perret, 76600 Le Havre, France",49.49119366,0.1064609
+335,Nomad Hotel le Havre,"5 rue Magellan, 76600 Le Havre, France",49.4933176,0.12530688
+336,"The Originals Boutique, Hôtel d'Angleterre, Le Havre, centre, plage","1 Rue Louis Philippe, Perret, 76600 Le Havre, France",49.49404915,0.09936646
+337,Hilton Garden Inn Le Havre Centre,"128 Boulevard Clemenceau, Perret, 76600 Le Havre, France",49.49008699,0.09774696
+338,Hotel Spa Le Pasino,"Place Jules Ferry, Perret, 76600 Le Havre, France",49.49117449,0.11193663
+339,LOGIS HOTEL - La Petite Rade,"3 Place Clemenceau, Sainte-Adresse, 76310 Le Havre, France",49.50238471,0.08598089
+340,Appart'City Classic Dijon - Toison D'Or,"Rue Des Grandes Varennes, 21121 Dijon, France",47.35495715,5.03765523
+341,Campanile Dijon Centre - Gare,"15-17 avenue Foch, 21000 Dijon, France",47.32331785,5.02963811
+342,Apparteo Dijon,"Boulevard de la Fontaine des Suisses, 21000 Dijon, France",47.32075509,5.05810049
+343,Aparthotel Adagio Access Dijon République,"33 rue de Mulhouse, 21000 Dijon, France",47.325526,5.0494804
+344,Comfort Hotel Dijon Sud - 21600 LONGVIC,"5 chemin de Beauregard, 21600 Dijon, France",47.27176415,5.04512519
+345,Kyriad Dijon Est Mirande,"12-14,Rue Pierre De Coubertin, 21000 Dijon, France",47.31154757,5.08031309
+346,Ibis budget Dijon Centre Clemenceau,"2 Avenue De Marbotte, 21000 Dijon, France",47.329936,5.05188
+347,Residhome Dijon Cité Des Vignes,"1 Avenue de l'Ouche, 21000 Dijon, France",47.318251,5.028123
+348,Campanile Dijon Congrès Clemenceau,"16 Avenue Raymond Poincaré, 21000 Dijon, France",47.32874479,5.05931675
+349,L'aparthoteL LhL,"4 rue Audra, 21000 Dijon, France",47.32566596,5.03518894
+350,Novotel Dijon Sud,"11 Route De Beaune, 21160 Dijon, France",47.27952743,5.00770569
+351,Hôtel Dijon Sud Longvic,"7 Rue Beauregard, 21600 Dijon, France",47.27142564,5.04328251
+352,ibis Dijon Gare,"15 Avenue Albert 1Er, 21000 Dijon, France",47.32223149,5.02388611
+353,Kyriad Hotel Dijon Gare,"7-9 Rue Docteur Albert Remy, 21000 Dijon, France",47.32279604,5.02989829
+354,Hotel ibis Dijon Centre Clemenceau,"2 avenue de Marbotte, 21000 Dijon, France",47.32945016,5.05164027
+355,Adonis Dijon Maison Internationale,"7 Avenue Alain Savary, 21000 Dijon, France",47.31329026,5.07199162
+356,Aloft Hotel Dijon By Marriott,"8 Place Grangier, Dijon Centre Ville, 21000 Dijon, France",47.32359832,5.03726116
+357,Kyriad Prestige Dijon Centre,"24 Avenue Foch, 21000 Dijon, France",47.32355785,5.0296703
+358,ibis Dijon Sud,"Rue Bolotte - Route de Beaune, 21160 Dijon, France",47.27226918,5.00311777
+359,Campanile Dijon Nord - Toison D'or,"Parc Technologique de la Toison d'or, Allée Alfred Nobel, 21000 Dijon, France",47.35607457,5.04529685
+360,Alfred Suites - Appart's Hôtel - Dijon - Centre Historique,"19 Rue du Bourg, Dijon Centre Ville, 21000 Dijon, France",47.32139634,5.03966996
+361,Odalys City Dijon Les Cordeliers,"3/5, rue Turgot, Dijon Centre Ville, 21000 Dijon, France",47.31827001,5.04011462
+362,MÉDICIS HOME DIJON LES PETITES ROCHES,"20 Chemin des Petites Roches, 21000 Dijon, France",47.31436158,5.05549186
+363,Nomad Hotel Dijon,"30 Rue des Perrières, 21000 Dijon, France",47.3245398,5.0276148
+364,"The Originals City, Hôtel Castel Burgond, Dijon Ouest (Inter-Hotel)","5 rue de la Maladière (Daix), 21121 Dijon, France",47.34299853,5.00099145
+365,Logis Hotel Restaurant Uzès Pont du Gard,"2 Bis rue de l'Emmeraude, 30700 Uzès, France",44.00284485,4.41645205
+366,Hôtel Le Saint-Geniès,"Chemin de Saint-Geniès, 30700 Uzès, France",44.02305334,4.42047223
+367,Patio De Violette,"Chemin Trinquelaïgues, 30700 Uzès, France",44.02843142,4.42002386
+368,Boutique Hôtel Entraigues,"4 place de l'Evêché, Rue de la Calade, 30700 Uzès, France",44.01246437,4.42180011
+369,La Maison d'Uzès Relais & Châteaux,"18 rue du Docteur Blanchard, 30700 Uzès, France",44.01274447,4.42113072
+370,Hotel Restaurant Le Gardon - Pont du Gard,"9 Rue Campchestève, 30210 Collias, France",43.96063267,4.46756244
+371,Le Castellas Hotel & SPA - TERITORIA,"30 Grand Rue, 30210 Collias, France",43.95418958,4.47615892
+372,La Bégude Saint-Pierre,"295 Chemin des Begudes, 30210 Vers Pont du Gard, France",43.95970786,4.51932907
+373,Château d'Arpaillargues - TERITORIA,"Rue du Chateau, 30700 Arpaillargues-et-Aureillac, France",43.99945021,4.37276781
+374,Château de Collias,"8 Bis chemin du Barry, PL DU CHATEAU 30210 COLLIAS, 30210 Collias, France",43.9529415,4.47557424
+375,greet hôtel Pont du Gard - Route d'Avignon,"247 Chemin de la Fenouillère, 30390 Estézargues, France",43.95166379,4.63867563
+376,Empire Hôtel,"Boulevard Etienne Saintenac, 30000 Nîmes, France",43.84030089,4.36314873
+377,Hotel Cote Patio,"31 Rue De Beaucaire, 30000 Nîmes, France",43.83887217,4.36974764
+378,SQUARE HOTEL,"7 Square de la Couronne, 30000 Nîmes, France",43.837032,4.363037
+379,Kyriad Nimes Centre,"10 Rue Roussy, 30000 Nîmes, France",43.83775973,4.36387226
+380,Central Hotel,"2 Place Du Château, 30000 Nîmes, France",43.83899502,4.36281145
+381,Royal Hôtel,"1 place d'Assas, 30000 Nîmes, France",43.8388151,4.35481846
+382,Soko Hotels-Pont du Gard,"24 Avenue du Pont du Gard, 30210 Remoulins, France",43.946223,4.548705
+383,Le Vieux Castillon,"10 rue Turion Sabatier, 30210 Castillon-du-Gard, France",43.9708845,4.5549613
+384,Appart'City Collection Nîmes Arènes,"1 Boulevard De Bruxelles, 30000 Nîmes, France",43.83387353,4.36143396
+385,HÔTEL C SUITES chambres spacieuses,"152 rue claude nicolas ledoux, 30900 Nîmes, France",43.815377,4.345905
+386,Logis NIMOTEL Hôtel Cosy,"152 Rue Claude Nicolas Ledoux, 30900 Nîmes, France",43.81557635,4.34660353
+387,Novotel Atria Nimes Centre,"5 boulevard de Prague, 30000 Nîmes, France",43.83542065,4.36340421
+388,Hotel Des Tuileries,"22 Rue Roussy, 30000 Nîmes, France",43.83642382,4.36474532
+389,"The Originals City, Hôtel Nîmes Costières, Ex Inter Hôtel","205 rue Tony Garnier - Ville Active, 30900 Nîmes, France",43.81465315,4.34430957
+390,Résidence Pierre & Vacances Le Clos d'Eguisheim,"Route De Wettolsheim, 68420 Eguisheim, France",48.04502734,7.31185466
+391,Hotel SPA Husseren Collections - Proche Colmar - Eguisheim,"Rue du Schlossberg, 68420 Eguisheim, France",48.03498767,7.27613837
+392,"James Vignoble Hôtel, Eguisheim","6 rue des 3 Pierres, 68420 Eguisheim, France",48.04496277,7.30157845
+393,Résidence Pierre & Vacances La Petite Venise,"11 avenue Joffre, 68000 Colmar, France",48.07093986,7.35386556
+394,"The Originals City, Hôtel Colmar Gare","2, rue des Trois Epis, 68000 Colmar, France",48.07705927,7.34933853
+395,Hotel Restaurant Cristal,"91 Rue Clemenceau, 68920 Wintzenheim, France",48.07390014,7.28547303
+396,Hôtel des Deux Clefs,"3 Rue Du Conseil, 68230 Turckheim, France",48.08721749,7.2778818
+397,"Travel Homes - Rapp, charm in the heart of Colmar","1 Avenue de la République, 68000 Colmar, France",48.0779724,7.3540551
+398,Hotel L'Europe,"15 route de Neuf Brisach - Horbourg Wihr, 68180 Colmar, France",48.07720622,7.40387186
+399,Le Domaine de Rouffach,"1 Rue Poincaré, 68250 Rouffach, France",47.96149384,7.29790449
+400,Campanile Colmar - Parc des Expositions,"8 rue des métiers, 68000 Colmar, France",48.10965199,7.36455202
+401,Odalys City Colmar La Rose d'Argent,"2 RUE DU GRILLENBREIT, 68000 Colmar, France",48.07891558,7.36514839
+402,Résidence Les Rives de la Fecht - Colmar Ouest,"18 quai de la Fecht, 68040 Ingersheim, France",48.09957165,7.31126994
+403,Relais Du Vignoble,"33 Rue des Forgerons, 68420 Gueberschwihr, France",48.00430558,7.2807008
+404,Hotel Saint-Martin,"38, Grand'Rue, 68000 Colmar, France",48.07641681,7.35935189
+405,Grand Hôtel Bristol,"7 place de La Gare, 68000 Colmar, France",48.07245883,7.34755754
+406,ibis Colmar Est - Hotel Restaurant en Alsace,"13, Route De Neuf-Brisach - Horbourg Wihr, 68180 Colmar, France",48.07790332,7.40279764
+407,Logis Hôtel Beauséjour Colmar,"25, rue du Ladhof, 68000 Colmar, France",48.08405233,7.36607082
+408,Résidence de l'ancien relais,"14 Rue de l'Église, 68000 Colmar, France",48.0767618,7.3590849
+409,Kyriad Colmar Centre Unterlinden,"2 Rue De La Fecht, 68000 Colmar, France",48.08601523,7.35729933
+410,Hôtel Turenne,"10 Route de Bâle, 68000 Colmar, France",48.07192026,7.36053944
+411,Hotel Le Colombier,"7 rue Turenne, 68000 Colmar, France",48.07376803,7.35829376
+412,Hotel Restaurant Le Maréchal - Teritoria,"6 place des six Montagnes Noires, 68000 Colmar, France",48.07357179,7.35667169
+413,James Boutique Hôtel Colmar centre,"15 rue Saint-Eloi, 68000 Colmar, France",48.07934802,7.3644799
+414,Hôtel Le Rapp,"1, Rue Weinemer, 68000 Colmar, France",48.0764186,7.35596895
+415,Séjours & Affaires La Rochelle Les Minimes,"27/29 rue Enrico FERMI, 17000 La Rochelle, France",46.14584493,-1.15611792
+416,Résidence Pierre & Vacances Centre,"14, quai de Marans, 17000 La Rochelle, France",46.15576943,-1.14639223
+417,Logis Hôtel Le Rochelois,"66, boulevard Winston Churchill  Port neuf, 17000 La Rochelle, France",46.15418175,-1.18243652
+418,ibis La Rochelle Vieux Port,"Place Du Commandant De La Motte Rouge, 17000 La Rochelle, France",46.1558294,-1.148558
+419,Hotel Les Rosiers,"56 Boulevard André Sautel, 17000 La Rochelle, France",46.167557,-1.133687
+420,Hôtel La Fabrique,"7-9-11 rue de la Fabrique, 17000 La Rochelle, France",46.156155,-1.148583
+421,Kyriad La Rochelle Centre - Les Minimes,"Rue de la Scierie, 17000 La Rochelle, France",46.14630971,-1.1528939
+422,Hotel Inn Design La Rochelle,"2 rue Yvonne Salomon, 17000 La Rochelle, France",46.16975862,-1.12158448
+423,Hôtel Atlantic,"23 Rue Verdière, 17000 La Rochelle, France",46.15727436,-1.15521938
+424,ibis La Rochelle Centre Historique,"1 ter rue fleuriau, 17000 La Rochelle, France",46.1612519,-1.1504209
+425,Lagrange Apart'Hotel l’Escale Marine,"36 Avenue Amerigo Vespucci, 17000 La Rochelle, France",46.15107012,-1.15486329
+426,Résidence New Rochelle,"17 Avenue du Lazaret, 17000 La Rochelle, France",46.14068996,-1.16616011
+427,Novotel La Rochelle Centre,"Avenue de la Porte Neuve, 17000 La Rochelle, France",46.16143408,-1.15847558
+428,Hôtel Kyriad La Rochelle Centre Ville,"51 rue de Périgny, 17000 La Rochelle, France",46.15779643,-1.13831878
+429,ATHOME RESIDENCE ET SPA,"33 avenue du docteur planet, 17000 La Rochelle, France",46.145995,-1.152398
+430,Un Hotel sur le Port,"5 Rue De La Fabrique, 17000 La Rochelle, France",46.15612058,-1.1489135
+431,Le Manoir Hôtel,"8 bis Avenue du Général Leclerc , 17000 La Rochelle, France",46.16270478,-1.16061062
+432,ibis Styles La Rochelle Centre,"4, rue Leonce Vieljeux  (accès voiture :  9 rue Chef de Ville), 17000 La Rochelle, France",46.1580159,-1.15397182
+433,Hôtel Les Brises,"Chemin de la digue Richelieu, 17000 La Rochelle, France",46.15345807,-1.17438644
+434,Hôtel François 1er,"13-15 Rue Bazoges, 17000 La Rochelle, France",46.16091143,-1.15203694
+435,Hôtel Saint Nicolas,"13 rue Sardinerie, 17000 La Rochelle, France",46.15813457,-1.14891277
+436,Central Park Hôtel & Spa,"4, avenue Jean Guiton, 17000 La Rochelle, France",46.15891333,-1.16082335
+437,Mercure La Rochelle Vieux Port,"Quai Louis Prunier, 17044 La Rochelle, France",46.15365316,-1.14965111
+438,Tour de Nesle La Rochelle Vieux Port 3 etoiles,"2, Quai Louis Durand, 17000 La Rochelle, France",46.15809741,-1.1503619
+439,Best Western Premier Masqhotel,"17 Rue de L'ouvrage à Cornes, 17000 La Rochelle, France",46.15483672,-1.14505649
+440,"Hotel Des 4 Vents ""Esprit Camargue""","939 Route De Nimes, 30220 Aigues-Mortes, France",43.57702546,4.19753909
+441,Maison des Croisades,"2 RUE DU PORT, 30220 Aigues-Mortes, France",43.5689974,4.1882982
+442,Hôtel Saint Louis,"10, Rue Amiral Courbet, 30220 Aigues-Mortes, France",43.56721967,4.1893436
+443,Le Mas Des Sables,"CD 979 Route de Nîmes, 30220 Aigues-Mortes, France",43.58606025,4.19745116
+444,Hotel Les Templiers,"21 Et 23 Rue De La Republique, 30220 Aigues-Mortes, France",43.56694565,4.19187346
+445,Boutique Hôtel des Remparts & Spa,"6, Place Anatole France, 30220 Aigues-Mortes, France",43.56803552,4.1903438
+446,La Villa Mazarin,"35 boulevard Gambetta, 30220 Aigues-Mortes, France",43.56498662,4.19175196
+447,Residence Residéal La Grande Motte,"312 Allée de La Plage, 34280 La Grande-Motte, France",43.5579264,4.09765363
+448,Vacancéole - Résidence Cap Camargue,"55 rue du Taillevent - Route de l'Espiguette, 30240 Le Grau-du-Roi, France",43.51726427,4.14993525
+449,Residence Residhotel Mayflower,"350, Avenue Georges Pompidou, 30240 Le Grau-du-Roi, France",43.53277434,4.14406251
+450,Lou Garbin,"210 Avenues des Jardins, 30220 Saint-Laurent-dʼAigouze, France",43.6323549,4.1911608
+451,Azureva Le Grau du Roi,"2815 Route de l'Espiguette, 30240 Le Grau-du-Roi, France",43.50309876,4.14209783
+452,SOWELL RESIDENCES Les Sablons,"1551 Route de Carnon, 30240 Le Grau-du-Roi, France",43.554462,4.103673
+453,Novotel La Grande Motte Golf,"Quartier Golf Ponant - 1641 Av Du Golf, 34280 La Grande-Motte, France",43.57070999,4.10264656
+454,Belambra Clubs La Grande Motte - Petite Camargue Presqu'île Du Ponant,"S/N Rue Saint-Louis, 92340 La Grande-Motte, France",43.56411347,4.10099423
+455,Le Prose Hôtel,"277 Allée du Vaccares, 34280 La Grande-Motte, France",43.55935184,4.0925344
+456,Hôtel Restaurant Splendid Camargue,"21 Boulevard Alphonse Maréchal Juin, 30240 Le Grau-du-Roi, France",43.53412549,4.13711429
+457,Belambra Clubs Port Camargue - Les Salins,"Rue Amiot d'Inville, 30240 Le Grau-du-Roi, France",43.524719,4.141164
+458,GOLF HOTEL,"1920 Avenue du Golf, 34280 La Grande-Motte, France",43.568057,4.102608
+459,SOWELL Family Grau du Roi,"1551 Route de Carnon, 30240 Le Grau-du-Roi, France",43.554462,4.103673
+460,Hotel Le Quetzal,"Allée des Jardins, 34280 La Grande-Motte, France",43.56037838,4.0921551
+461,Mercure Port La Grande Motte,"140, Rue Du Port, 34280 La Grande-Motte, France",43.55844052,4.08389926
+462,MY Hôtel Résidences - La Grande-Motte,"Allée d'Athènes, 34280 La Grande-Motte, France",43.5593909,4.0696384
+463,Oustau Camarguen Hôtel & Spa,"3 Route Des Marines, 30240 Le Grau-du-Roi, France",43.51195016,4.13701303
+464,Le Spinaker,"Port Camargue - voie de la Pointe du Mole, 30240 Le Grau-du-Roi, France",43.5187674,4.136688
+465,Novotel Bayeux,"117 Rue Saint Patrice, 14400 Bayeux, France",49.28176922,-0.71848869
+466,Churchill Hotel Bayeux Centre,"14 Rue St Jean, 14400 Bayeux, France",49.2766073,-0.70057154
+467,Hôtel De Brunville & Spa,"9 Rue Genas-Duhomme, 14400 Bayeux, France",49.27815769,-0.70351392
+468,Grand Hôtel du Luxembourg & Spa,"25 Rue Des Bouchers, 14400 Bayeux, France",49.27842191,-0.70329666
+469,Hotel Le Lion D'Or et Restaurant La Table Du Lion,"71 Rue Saint Jean, 14400 Bayeux, France",49.27627832,-0.69836944
+470,Villa Lara Hotel,"6, Place du Québec, 14400 Bayeux, France",49.27551886,-0.70096448
+471,Résidence Pierre & Vacances Green Beach,"6 Rue Abbé Lemazurier, 14520 Port-en-Bessin-Huppain, France",49.33890265,-0.77262104
+472,Hôtel L'ideal le Mountbatten,"20 Boulevard Gilbert Longuet, 14117 Arromanches-les-Bains, France",49.33836961,-0.62405348
+473,Mercure Bayeux Omaha Beach,"Chemin Du Colombier, 14520 Port-en-Bessin-Huppain, France",49.34120954,-0.76816857
+474,ibis Bayeux Port En Bessin,"12 Quai Baron Gerard, 14520 Port-en-Bessin-Huppain, France",49.34591036,-0.75205386
+475,Logis Hôtel La Rosière,"14, Route de Bayeux, 14117 Tracy-sur-Mer, France",49.32349966,-0.65240979
+476,Château Saint Gilles,"80, rue de la Mairie, Guéron, 14400 Guéron, France",49.249366,-0.712469
+477,"Les Villas d'Arromanches, Teritoria","1 rue du Lt Colonel De Job, 14117 Arromanches-les-Bains, France",49.33893271,-0.62958688
+478,Pierre & Vacances Résidence Le Chant des Oiseaux,"Chemin de la Tuilerie, 14470 Courseulles-sur-Mer, France",49.33364534,-0.46573341
+479,Domaine de L'Hostreiere,"Route Du Cimetière Américain, 14710 Colleville-sur-Mer, France",49.34857163,-0.85488975
+480,Gold Beach Hotel & RESIDENCE,"Rue Devonshire Regiment, 14960 Asnelles, France",49.33972056,-0.58502197
+481,Hôtel Le Manoir De Mathan Crépon à la campagne 5 mn d'Arromanches et 10 mn de Bayeux,"Route de Bayeux, 14480 Crépon, France",49.31500078,-0.55230975
+482,La Cremaillere,"23 avenue de La Combattante, 14470 Courseulles-sur-Mer, France",49.33552951,-0.45545518
+483,Ferme de la Rançonnière - Hôtel & Restaurant,"Route de Creully, 14480 Crépon, France",49.31199321,-0.54714516
+484,La Pêcherie,"7 Place Du 6 Juin N°14, 14470 Courseulles-sur-Mer, France",49.3349772,-0.45743197
+485,La Grande Ferme Maison de Maître,"route de creully, 14480 Crépon, France",49.31289187,-0.54875484
+486,Château de Bernesq,"2 rue du Chateau, 14710 Bernesq, France",49.27241099,-0.94273603
+487,Appartement Prestige Résidentiel 3 chambres 3 salles de bain au Manoir de Mathan à Crépon 5 mn d'Arromanches et 10 mn de Bayeux,"9 Route de Bayeux, 14480 Crépon, France",49.314979,-0.551983
+488,Chateau d'Audrieu,"Rue Principale, 14250 Audrieu, France",49.20403487,-0.59443116
+489,ibis Caen Porte De Bretagne,"1, rue Du Fresne, 14760 Bretteville-sur-Odon, France",49.16416594,-0.42426378
+490,Grand Hôtel De La Seine,"14, Quai Gaston Boulet, 76000 Rouen, France",49.44158357,1.08144455
+491,Hotel De Quebec,"18-24 Rue De Quebec, 76000 Rouen, France",49.43783419,1.09725282
+492,Aparthotel Adagio Access Rouen Centre Cathédrale,"10 Quai de la Bourse RouenFrance, 76000 Rouen, France",49.439067,1.089627
+493,Mercure Rouen Centre Cathédrale,"7 Rue Croix de Fer, 76000 Rouen, France",49.44117285,1.09517545
+494,DOMITYS Les Mosaïques,"64 Rue Saint-Julien, 76100 Rouen, France",49.4290146,1.0832807
+495,KYRIAD ROUEN SUD - Sotteville les Rouen,"23 Rue d'Eauplet, 76300 Rouen, France",49.421793,1.106844
+496,"Holiday Inn Express - Rouen Centre - Rive Gauche, an IHG Hotel","103 Avenue Jean Rondeaux, 76100 Rouen, France",49.429988,1.072398
+497,Mercure Rouen Centre Champ de Mars,"12 bis Avenue Aristide Briand, 76000 Rouen, France",49.43555756,1.10374242
+498,Hôtel d'Angleterre Rouen Centre Gare,"21 Quai du Havre, 76000 Rouen, France",49.439538,1.087303
+499,Ibis Styles Rouen Centre Rive Gauche,"55 Avenue De La Liberation, 76100 Rouen, France",49.42498666,1.06860875
+500,Urban Style hotel de l'Europe,"87, rue aux Ours, 76000 Rouen, France",49.44115235,1.08923636
+501,Hôtel De La Cathédrale,"12 Rue Saint Romain, 76000 Rouen, France",49.44011681,1.09693363
+502,Résidence Les Boréales,"52 Rue Meridienne, 76100 Rouen, France",49.4254701,1.0838855
+503,Hotel Dandy Rouen centre,"93 A Rue Cauchoise, 76000 Rouen, France",49.44527729,1.0867627
+504,"Hôtel Littéraire Gustave Flaubert, BW Signature Collection","33 rue du Vieux Palais / 15 rue de la Pie, 76000 Rouen, France",49.44263508,1.08685791
+505,"Radisson Blu Hotel, Rouen Centre","6-8 Rue du Donjon, 76000 Rouen, France",49.446441,1.09412
+506,Hôtel Paulette Rouen Centre Cathédrale,"12 Rue De La Champmeslé, 76000 Rouen, France",49.43872283,1.09135196
+507,"Hôtel de Bourgtheroulde, Autograph Collection","15 Place De La Pucelle, 76000 Rouen, France",49.442178,1.088876
+508,Kyriad Rouen Sud - Oissel,"31 rue Desire Granet, 76800 Saint-Étienne-du-Rouvray, France",49.36880599,1.11070275
+509,Campanile Rouen Est - Franqueville Saint Pierre,"Za Portes De Franqueville / Rn 14, 210 Rue Jéhan Ango, 76520 Franqueville-Saint-Pierre, France",49.40243794,1.16153866
+510,"The Originals City, Hôtel Éden, Rouen Nord (Inter-Hotel)","Espace Leader - Rue Gustave Eiffel, 76230 Bois-Guillaume, France",49.47455216,1.10468388
+511,Logis Hôtel & Restaurant Le Vert Bocage,"864 route de paris, 76520 Franqueville-Saint-Pierre, France",49.397889,1.177987
+512,Best Western Plus Le Conquerant Rouen Nord,"332 Rue Du General De Gaulle, 76230 Bois-Guillaume, France",49.472657,1.108758
+513,Logis Hôtel & Restaurant - Le Relais de Montigny,"248, Rue Du Lieutenant Aubert., 76380 Montigny, France",49.45901383,0.99833429
+514,Résidence DOMITYS - L'Athénée,"58 ter Avenue du Mont aux Malades, 76130 Mont-Saint-Aignan, France",49.466736,1.069951
+515,Abbaye des Capucins Spa & Resort,"6-8 Quai De Verdun, 82000 Montauban, France",44.02054293,1.34956688
+516,Kyriad Montauban Sud - Albasud,"Zone Albasud Secteur 3 Impasse Louis Lepine, 82000 Montauban, France",43.98204027,1.33269846
+517,Dali Hôtel Montauban,"6 Quai de Verdun, 82000 Montauban, France",44.02099556,1.34924001
+518,ibis Montauban,"50 route de Saint Martial, 82000 Montauban, France",44.0053675,1.3837342
+519,HÔTEL LE CHAPON FIN,"3 Place des Récollets, 82200 Moissac, France",44.103214,1.085845
+520,Residhome Lyon Gerland,"2 Rue Marie Madeleine Fourcade, 7th arr., 69007 Lyon, France",45.7370505,4.83739883
+521,Appart’City Confort Lyon Gerland,"175 Avenue Jean Jaurès, 7th arr., 69007 Lyon, France",45.73795282,4.83773947
+522,Appart'City Classic Lyon Part-Dieu,"111-113, Boulevard Vivier-Merle, 3rd arr., 69003 Lyon, France",45.75278477,4.85971212
+523,Appart'City Classic Lyon Part Dieu Villette,"6 Avenue Lacassagne, 3rd arr., 69003 Lyon, France",45.75644535,4.8632741
+524,Odalys City Lyon Bioparc,"60, Avenue Rockefeller, 8th arr., 69008 Lyon, France",45.74010935,4.88837957
+525,Odalys City Lyon Confluence,"7 cours Bayard, 2nd arr., 69002 Lyon, France",45.74457016,4.82010044
+526,Lagrange Aparthotel Lyon Lumière,"81-85 Cours Albert Thomas, 3rd arr., 69003 Lyon, France",45.74645865,4.86893088
+527,Appart hôtel Q7 Lodge Lyon 7,"7 rue Félix Brun, 7th arr., 69007 Lyon, France",45.74027408,4.83358204
+528,Hôtel Maison Lacassagne Lyon,"245 Avenue Lacassagne, 3rd arr., 69003 Lyon, France",45.74439127,4.89254236
+529,Aparthotel Adagio Lyon Patio Confluence,"50 Cours Charlemagne, 2nd arr., 69002 Lyon, France",45.74525324,4.82281566
+530,Residhotel Lyon Part Dieu,"79 Boulevard Marius Vivier Merle, 3rd arr., 69003 Lyon, France",45.75560696,4.85917568
+531,Apparthotel Privilodges Lyon Lumière,"14 rue Jacqueline Auriol, Angle de l'avenue Jean Mermoz, Lyon, 8th arr., 69008 Lyon, France",45.73459006,4.87520283
+532,La Résidence,"18, Rue Victor Hugo, 2nd arr., 69002 Lyon, France",45.75527786,4.83048242
+533,Résidence Villemanzy,"21 Montee St Sebastien, 1st arr., 69001 Lyon, France",45.77193515,4.83545758
+534,Mercure Lyon Centre - Gare Part Dieu,"50 Rue de la Villette, 3rd arr., 69003 Lyon, France",45.75930703,4.86149579
+535,Hôtel Villa Berlioz,"12 Cours Charlemagne, 2nd arr., 69002 Lyon, France",45.74733274,4.82453227
+536,Citadines Presqu'île Lyon,"2 Rue Thomassin, 2nd arr., 69002 Lyon, France",45.76158736,4.83262651
+537,Mercure Lyon Centre Château Perrache,"12 Cours Verdun Rambaud - Esplanade De La Gare, 2nd arr., 69002 Lyon, France",45.74922688,4.82522696
+538,Citadines Part-Dieu Lyon,"91-95 Rue Moncey, 3rd arr., 69003 Lyon, France",45.76136272,4.8498369
+539,Mama Shelter Lyon,"13 rue Domer, 7th arr., 69007 Lyon, France",45.74695278,4.84526776
+540,Hotel Des Remparts Perrache,"19, Place Carnot (côté Saône ), 2nd arr., 69002 Lyon, France",45.75055386,4.82641786
+541,MOB HOTEL Lyon Confluence,"55 Quai Rambaud, 2nd arr., 69002 Lyon, France",45.7346143,4.8159854
+542,ibis Lyon Gerland Musée des Confluences,"68 Avenue Leclerc, 7th arr., 69007 Lyon, France",45.73332499,4.82288003
+543,Nemea Appart Hotel So Cloud Lyon Gare Part-Dieu,"53 Rue Desaix, 3rd arr., 69003 Lyon, France",45.75769,4.858226
+544,Hôtel de Noailles,"30, Cours Gambetta. - Station : Saxe-Gambetta, 7th arr., 69007 Lyon, France",45.75463334,4.84453216
+545,greet hôtel Annecy Cran-Gevrier,"19 route de Nanfray - Cran Gevrier, 74960 Annecy, France",45.89344692,6.08693406
+546,Hotel des Marquisats,"6 Chemin de Colmyr, 74000 Annecy, France",45.88972625,6.13854915
+547,Aparthotel Adagio Annecy Centre,"2 Place Marie Curie (ex- Avenue Berthollet), 74000 Annecy, France",45.90320198,6.12267315
+548,Zenitude Hôtel-Résidences Les Hauts d'Annecy,"16, rue du Champ de la Taillee, 74600 Annecy, France",45.890749,6.107753
+549,Novotel Annecy Centre,"1, place Marie Curie (1 avenue Bertholet), 74000 Annecy, France",45.90303773,6.12265706
+550,Hotel Novel Restaurant La Mamma,"69, Av. De France, 74000 Annecy, France",45.91902744,6.13181949
+551,ibis Styles Annecy Centre Gare,"1 Place de la Mandallaz, 74000 Annecy, France",45.89912171,6.11464262
+552,ibis Annecy Centre Vieille Ville,"12 rue de la Gare, 74000 Annecy, France",45.8982388,6.12250954
+553,Hôtel Catalpa,"34, Avenue d'Albigny, 74000 Annecy, France",45.90551449,6.14412814
+554,Hôtel de Bonlieu,"5 Rue de Bonlieu, 74000 Annecy, France",45.90349688,6.12847745
+555,Apparthotel Privilodges Le Royal,"9 rue Royale, 74000 Annecy, France",45.90010167,6.12442464
+556,Mercure Annecy Sud,"76 Avenue d'Aix les Bains, 74602 Annecy, France",45.88932486,6.10639751
+557,Allobroges Park Hôtel,"11 rue Sommeiller, 74000 Annecy, France",45.90218661,6.12380505
+558,Best Western Plus Hotel Carlton Annecy,"5 Rue des Glières, 74000 Annecy, France",45.90034806,6.1223942
+559,Hôtel Le Pré Carré,"27 Rue Sommeiller, 74000 Annecy, France",45.90249645,6.12611979
+560,Le Splendid Hotel Lac D'Annecy - Handwritten Collection,"4 Quai Eustache Chappuis, 74000 Annecy, France",45.90067845,6.12744749
+561,Impérial Palace,"Allée de l'Impérial, 74000 Annecy, France",45.90374699,6.14469409
+562,Le Pélican,"20 Rue des Marquisats, 74000 Annecy, France",45.897015,6.131543
+563,Rivage Hôtel & Spa Annecy,"33 Avenue du Petit Port, 74000 Annecy, France",45.905699,6.151953
+564,Les Trésoms Lake and Spa Resort,"15 Boulevard de la Corniche, 74000 Annecy, France",45.88969452,6.13690495
+565,Best Western Hotel Kobalt,"49 Rue du Parmelan, Grand Epagny, 74330 Épagny, France",45.93457603,6.08602881
+566,Kyriad Annecy Nord - Epagny,"Parc d'activités des Longeray, 74370 Metz-Tessy, France",45.93525778,6.10791564
+567,Logis hôtel Annecy nord / Argonay,"3 place Arthur Lavy, 74370 Argonay, France",45.94474947,6.14011623
+568,Résidence Florimontane,"32, chemin des Sablons, 74290 Talloires, France",45.85273942,6.20435447
+569,La Parenthèse Enchantée - Résidel,"20 Chemin des Aires, 74320 Sévrier, France",45.8532553,6.1435484
+570,Hôtel Kyriad Cap Sud,"35 Allee Des Fenaisons, 84000 Avignon, France",43.9274482,4.84788895
+571,Hotel Cristol,"204 Chemin De La Cristole, 84140 Avignon, France",43.92633935,4.85013127
+572,Appart'Hotel Festival Sud Aqua - Avignon TGV,"36 Route Des Rémouleurs - Courtine, 84000 Avignon, France",43.93519799,4.78102684
+573,Hôtel Paradou Avignon Sud,"85 Avenue Clément Ader - Zone de l'aéroport, 84140 Avignon, France",43.9048925,4.89553034
+574,ApartHotel Sainte-Marthe,"6 Route de Lyon , 84000 Avignon, France",43.94989514,4.81986389
+575,Aparthotel Adagio Access Avignon,"6 Avenue de la Gare, 84000 Avignon, France",43.92623117,4.78592724
+576,Avignon Grand Hotel,"34, bd Saint-Roch, 84000 Avignon, France",43.94254506,4.80436206
+577,Brit Hotel Avignon Sud Le Calendal,"87 Rue Du Bon Vent, 84140 Avignon, France",43.92598583,4.85163599
+578,COWOOL AVIGNON,"25 Avenue Mazarin, 84000 Avignon, France",43.93297914,4.8319067
+579,Hôtel de l'Horloge,"1 Rue Félicien David - Place de l'Horloge, 84000 Avignon, France",43.9489672,4.80547249
+580,Le Gîte du Festival Sud Aqua - Avignon TGV,"115 Rue du Mourelet, 84000 Avignon, France",43.931796,4.77929
+581,Appart'Hotel Festival Sud Suites - Avignon TGV,"36 Route Des Rémouleurs - Courtine, 84000 Avignon, France",43.93519026,4.78094637
+582,"The Originals Boutique, Hôtel Danieli, Avignon","17 Rue de la République, 84000 Avignon, France",43.94756619,4.80603039
+583,ibis Avignon Centre Gare,"42 boulevard Saint Roch, 84000 Avignon, France",43.94229069,4.80727434
+584,ibis Styles Avignon Sud,"2968 avenue de l'Amandier, 84000 Avignon, France",43.92616548,4.84442085
+585,Novotel Avignon Centre,"20 boulevard Saint Roch, 84000 Avignon, France",43.9427354,4.80243623
+586,ibis Avignon Sud,"71 Chemin de la Cristole, 84918 Avignon, France",43.92607107,4.84903291
+587,Hôtel Central,"31/33 Rue De La République, 84000 Avignon, France",43.94552496,4.80576083
+588,Mercure Avignon Centre Palais des Papes,"1 Rue Jean Vilar Accès voiture: parking du Palais des Papes (GPS: Boulevard de la ligne), 84000 Avignon, France",43.94990136,4.80647698
+589,Mercure Avignon Gare TGV,"2 Rue Mère Térésa, 84000 Avignon, France",43.92929,4.784118
+590,Altera Roma Hôtel,"13-15 Avenue Monclar, 84000 Avignon, France",43.94104636,4.80665267
+591,Hôtel Cloitre Saint Louis Avignon,"20, rue du Portail Boquier, 84000 Avignon, France",43.9438081,4.80494678
+592,Résidence Service Seniors MONTANA,"7 Rue Mourre, 84000 Avignon, France",43.9427848,4.8239056
+593,Best Western Plus Le Lavarin,"1715 Chemin du Lavarin, 84000 Avignon, France",43.92275766,4.804295
+594,Hotel De Cambis,"89 Rue Joseph Vernet, 84000 Avignon, France",43.947113,4.80333
+595,"Hotel Les Jardins de Bormes, sauna & jacuzzi","5478 Avenue Lou Mistraou, 83230 Bormes-les-Mimosas, France",43.14893354,6.30326629
+596,Hotel La Voile,"165 Avenue Des Girelles - La Favière, 83230 Bormes-les-Mimosas, France",43.12549,6.3573
+597,Eden Rose Grand Hotel BW Premier Collection,"167 Route Du Baguier, 83230 Bormes-les-Mimosas, France",43.152872,6.342654
+598,Anglade Hotel,"10 avenue du General de Gaulle, 83980 Le Lavandou, France",43.13766477,6.36799872
+599,Hôtel La Petite Bohème,"5, Avenue Franklin Roosevelt, 83980 Le Lavandou, France",43.13971299,6.36992052
+600,La Résidence du Cap,"Rue des écoles, Cavalière, 83980 Le Lavandou, France",43.1527499,6.4287897
+601,Hotel L'Escapade,"1 Chemin Du Vannier, 83980 Le Lavandou, France",43.13895654,6.37054414
+602,Résidence Pierre & Vacances L’Anse De Pramousquier,"Pramousquier D559, 83980 Le Lavandou, France",43.15388914,6.44605771
+603,Hôtel Restaurant Notre Dame,"15, Avenue de la Libération, 83610 Collobrières, France",43.23661322,6.30656272
+604,Hôtel Beau Site,"Pramousquier Plage, 83980 Le Lavandou, France",43.1553684,6.44651301
+605,Hotel Club Oustal Del Mar,"Avenue Vincent Auriol, 83980 Le Lavandou, France",43.13273694,6.36377156
+606,Hotel Espadon,"2, Place Reyer, 83980 Le Lavandou, France",43.13802686,6.36906892
+607,Hotel Belle Vue,"Chemin Du Four Des Maures, 83980 Le Lavandou, France",43.14513609,6.3848383
+608,"Hôtel-Club du Domaine d'Aiguebelle, USSIM Vacances","29 avenue des Plombagos, 83980 Le Lavandou, France",43.14823801,6.3998083
+609,Les Alcyons,"Aiguebelle Plage Avenue Des 3 Dauphins, 83980 Le Lavandou, France",43.14995426,6.40210629
+610,Hôtel Beau Soleil,"Avenue Des 3 Dauphins Aiguebelle Plage, 83980 Le Lavandou, France",43.14989338,6.40242822
+611,Hotel L'Orangeraie,"1246 Avenue André Gide, 83980 Le Lavandou, France",43.1436693,6.37933373
+612,Roc Hotel - Hôtel 4 étoiles les pieds dans l'eau,"Rue des Dryades, Saint-Clair, 83980 Le Lavandou, France",43.1438245,6.3834624
+613,Azur Hotel,"Chemin de l'Aragail - Cavalière, 83980 Le Lavandou, France",43.15812041,6.42459132
+614,Cap Nègre Hôtel,"745 Avenue Du Cap Nègre - Cavaliere, 83980 Le Lavandou, France",43.15169268,6.4342761
+615,Hotel Les Flots Bleus,"Boulevard des Dryades - Plage Saint Clair, 83980 Le Lavandou, France",43.14298041,6.38241291
+616,Hôtel de La Fossette,"16 Avenue du Capitaine Thorel, 83980 Le Lavandou, France",43.146744,6.394933
+617,Le Rabelais,"2 Rue Rabelais, 83980 Le Lavandou, France",43.13812276,6.3719523
+618,Grand Hotel Moriaz,"4 Avenue du Cap Negre, Cavalière, 83980 Le Lavandou, France",43.15165354,6.42619729
+619,Surplage Hotel Cavalière,"34 avenue du Cap Nègre, 83980 Le Lavandou, France",43.150554,6.435274
+620,Cerise Carcassonne Sud,"1 rue Darius Milhaud, 11000 Carcassonne, France",43.20754846,2.3726145
+621,"The Originals City, Hôtel Pont Rouge (ex inter-hôtel), Carcassonne","110 rue Yves de Kerguelen (Vasco de Gama), ZI du Pont Rouge, 11000 Carcassonne, France",43.23383056,2.36871243
+622,Kyriad Carcassonne - Aéroport,"Allée Gilles Personnier De Roberval, 11000 Carcassonne, France",43.20795783,2.31263146
+623,Brit Hotel Bosquet Carcassonne Cité,"8 Rue des Côteaux Pech Mary, 11000 Carcassonne, France",43.2063078,2.38369122
+624,Zenitude Hôtel-Résidences Carcassonne,"14 Route de Villemoustaussou, 11000 Carcassonne, France",43.22829222,2.36018702
+625,Campanile Carcassonne Est - La Cité,"Rue Camille Flammarion, 11000 Carcassonne, France",43.20917774,2.38705471
+626,ibis Styles Carcassonne La Cité,"2 rue Darius Milhaud , 11000 Carcassonne, France",43.20758443,2.37271428
+627,ibis Carcassonne Centre - La Cité,"5, square Gambetta, 11000 Carcassonne, France",43.21157055,2.35732913
+628,ibis Carcassonne Est la Cité,"11, Rue Camille Flammarion, 11000 Carcassonne, France",43.20925202,2.3867476
+629,Hotel Montsegur,"1 Avenue Bunau Varilla, 11000 Carcassonne, France",43.21230753,2.34492928
+630,SOWELL HOTELS Les Chevaliers,"2 bis Rue des Calquières, 11000 Carcassonne, France",43.21103244,2.35819995
+631,Tribe Carcassonne,"2 Rue Des Trois Couronnes, 11000 Carcassonne, France",43.21030573,2.3577556
+632,Hôtel La Bastide Saint Martin,"Avenue Saint Martin, 11000 Carcassonne, France",43.22714696,2.39639953
+633,Hotel du Roi & Spa by SOWELL COLLECTION,"3 Rue des Calquières, 11000 Carcassonne, France",43.21085,2.357769
+634,Hôtel Château de Cavanac,"Chateau de Cavanac, 11570 Carcassonne, France",43.16777149,2.3269169
+635,Domaine d'Auriac - Relais & Châteaux,"Route De Saint-Hilaire, 11000 Carcassonne, France",43.19177031,2.33468056
+636,Domaine De Fraisse,"Leuc, 11250 Leuc, France",43.12923127,2.35384202
+637,Logis Hôtel Château De Palaja,"7 Barri Del Castel - Palaja, 11570 Palaja, France",43.1733615,2.38355711
+638,Les Cabanes Dans Les Bois Logis Hôtel,"Domaine de Fourtou, 11600 Villedubert, France",43.24349,2.417176
+639,Hotel restaurant le top du Roulier,"8, avenue du Languedoc, 11700 Capendu, France",43.1878726,2.5579648
+640,Contact Hôtel Le Minervois - Hôtel & Restaurant Au nord de Carcassonne,"4 allée d'Occitanie (GPS : 4 Allée de la Cabrerisse), 11160 Caunes-Minervois, France",43.32775893,2.52435726
+641,Logis Hotel - Restaurant La Marbrerie,"Avenue de l'Argent Double / 2 rue du Chasselas, 11160 Caunes-Minervois, France",43.32731034,2.52467752
+642,"Château de Floure - Hôtel, restaurant, SPA et piscine extérieure chauffée","1, Allée Gaston Bonheur, 11800 Floure, France",43.18340798,2.49080256
+643,Hotel Moderne Et Pigeon,"1, Place Général Leclerc., 11300 Limoux, France",43.05345522,2.216198
+644,Hotel Liautaud,"2 avenue victor hugo, 13260 Cassis, France",43.21403,5.53859
+645,Hôtel Eden Cassis,"1, Avenue du Revestel - Impasse du Coulet, 13260 Cassis, France",43.2133045,5.54191589
+646,Les Jardins de Cassis,"Avenue Auguste Favier, 13260 Cassis, France",43.22184049,5.5433849
+647,Royal Cottage,"6 Avenue Du 11 Novembre, 13260 Cassis, France",43.21622493,5.54290026
+648,Hôtel Les Roches Blanches Cassis,"9 Avenue des Calanques, 13260 Cassis, France",43.211337,5.529502
+649,La Ciotat Le Saint Estève,"1040 Chemin du Pareyraou, 13600 La Ciotat, France",43.2066752,5.6295927
+650,Hôtel Le Relais des Brasseurs - Aubagne,"Zc Les Paluds, 13400 Aubagne, France",43.29099813,5.59404194
+651,Appart'City Confort La Ciotat - Côté Port,"57, passage Jean d'Huart , 13600 La Ciotat, France",43.17200864,5.60524821
+652,Résidence Pierre et Vacances Cap Cassis Calanques,"1461 Route de Cassis, 13830 Roquefort-la-Bédoule, France",43.24507644,5.56838094
+653,Les Lavandes,"142 Boulevard De La République, 13600 La Ciotat, France",43.17682741,5.60660943
+654,ibis La Ciotat,"Avenue de la Tramontane, 13600 La Ciotat, France",43.20567143,5.60183041
+655,Hôtel La Rotonde,"44 Bd de la République, 13600 La Ciotat, France",43.17650565,5.60620576
+656,Moxy La Ciotat,"756 Avenue Emile Bodin, 13600 La Ciotat, France",43.1963472,5.59757027
+657,Best Western Linko Hôtel,"4 Cours Voltaire, 13400 Aubagne, France",43.29431699,5.56868166
+658,Hotel La Ciotat - A deux pas de l'eau,"35 boulevard Beau Rivage, 13600 La Ciotat, France",43.18602424,5.62069864
+659,Hotel SPA Plage St Jean,"30 Avenue De St Jean, 13600 La Ciotat, France",43.18827572,5.63121334
+660,Appart' Hotel La Girafe Marseille Est - Porte d'Aubagne,"Allée de la Colombe, 13821 La Penne-sur-Huveaune, France",43.28391601,5.51411199
+661,Best Western Premier Hôtel du Vieux-Port,"252, quai François Mitterrand, 13600 La Ciotat, France",43.17247225,5.60561299
+662,Logis Noemys pont de l'Etoile - ex Mas de L'Etoile,"Chemin de la Gauthière, 13400 Aubagne, France",43.32301568,5.59438527
+663,"The Originals Boutique, Hotel l'Occitan, Aubagne","199 Avenue de Solobie, 13112 La Destrousse, France",43.37596256,5.60713515
+664,Appart'City Confort Marseille Centre Prado Vélodrome,"1 Rue Vandel, 13008 Marseille, France",43.2798554,5.390496
+665,Staycity Aparthotels Marseille Centre Vieux Port,"4 Place Pierre Bertas, 13001 Marseille, France",43.30046625,5.37444157
+666,Résidence Le Beau Rivage,"2 Boulevard Louis Lumière, 83150 Bandol, France",43.133186,5.751311
+667,Résidence Carpe Diem,"Résidence Carpe Diem 29 rue Pautrier, 13004 Marseille, France",43.30983566,5.39277493
+668,Appart'City Classic Marseille Euromed,"118-120 rue de Ruffi, 13002 Marseille, France",43.3148132,5.3694651
+669,Twenty Business Flats Lille - Bayard,"132 Rue Bayard, Moulins, 59000 Lille, France",50.6183812,3.0539968
+670,Aparthotel Adagio Access Lille Vauban,"17, Rue Colson, Vauban, 59800 Lille, France",50.6328418,3.0495885
+671,B&B HOTEL Lille Centre Grand Palais,"rue Berthe Morisot, Lille Centre, 59000 Lille, France",50.6281375,3.08142364
+672,Residhotel Lille Vauban,"69/71 Boulevard Vauban, Vauban, 59000 Lille, France",50.63220722,3.04668635
+673,Hotel Art Deco Euralille,"110, Avenue de la République, 59110 Lille, France",50.64602156,3.07587147
+674,CALM Appart' & Hostel,"2 rue des Buisses, Lille Centre, 59000 Lille, France",50.63734618,3.06945696
+675,Best Western Urban Hotel,"48 bis rue de Valenciennes, Moulins, 59000 Lille, France",50.62326,3.07548121
+676,Boa Hotel - BW Signature Collection - Lille Centre Gares,"17 Place Des Reignaux, Lille Centre, 59000 Lille, France",50.6373432,3.06831166
+677,Best Western Premier Why Hotel,"7 bis Square Morisson, Lille Centre, 59000 Lille, France",50.63430829,3.06161821
+678,Hotel Kanaï,"10 Rue De Béthune (adresse postale) / Entrée rue de la Vieille Comédie, Lille Centre, 59000 Lille, France",50.6347957,3.06413278
+679,JOST Hôtel Lille Centre,"10 Rue Meurein, Wazemmes, 59800 Lille, France",50.6288419,3.0519791
+680,Hotel Lille Euralille - Hilton Affiliate Hotel,"335, boulevard de Leeds, Lille Centre, 59777 Lille, France",50.63993565,3.07568908
+681,Domitys L'Agapanthe,"Rue Courtois, Lille Sud, 59000 Lille, France",50.61475008,3.04168406
+682,ibis Lille Centre Grand Palais,"3 rue des Moulins de Garance, Lille Centre, 59000 Lille, France",50.63319849,3.07447681
+683,La Valiz,"13 Place De La Gare, Lille Centre, 59000 Lille, France",50.63695662,3.06955688
+684,Aparthotel Adagio Lille Centre Grand Place,"76 Rue De L Hopital Militaire, Lille Centre, 59800 Lille, France",50.635281,3.060162
+685,Citadines City Centre Lille,"83 Avenue Willy Brandt-Euralille, Lille Centre, 59777 Lille, France",50.63686519,3.0732429
+686,DOMITYS Le Piano Résidence Sénior,"Rue Adèle Duriez, Fives, 59800 Lille, France",50.62855342,3.09527734
+687,Mama Shelter Lille,"97 PLACE SAINT HUBERT, Lille Centre, 59800 Lille, France",50.639065,3.070951
+688,OKKO Hotels Lille Centre,"13 Rue d'Amiens, Lille Centre, 59800 Lille, France",50.634074,3.064229
+689,Alliance Lille - Couvent Des Minimes,"17 Quai Du Wault, Vieux Lille, 59027 Lille, France",50.63786885,3.0546277
+690,Moxy Lille City,"3, Rue Jean Bart, Lille Centre, 59000 Lille, France",50.627831,3.063592
+691,Hotel L'Arbre Voyageur - BW Premier Collection - LILLE,"45 Boulevard Carnot, Vieux Lille, 59800 Lille, France",50.6397393,3.0674281
+692,Résidence Services Seniors DOMITYS - Villa Ulma,"66 Rue Albert Thomas, 59160 Lille, France",50.64409916,2.99773546
+693,Hotel De La Paix,"46 Bis Rue Pierre Mauroy , Lille Centre, 59000 Lille, France",50.63620003,3.06570321
